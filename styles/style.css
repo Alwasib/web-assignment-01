@@ -136,6 +136,14 @@ nav{
     -ms-border-radius: 8px;
     -o-border-radius: 8px;
 }
+.btn_sign:hover{
+  background-color: blueviolet;
+  transition: all linear 0.4s;
+  -webkit-transition: all linear 0.4s;
+  -moz-transition: all linear 0.4s;
+  -ms-transition: all linear 0.4s;
+  -o-transition: all linear 0.4s;
+}
 .banner{
    display: flex;
    justify-content: space-between;
@@ -181,6 +189,14 @@ nav{
     -moz-border-radius: 8px;
     -ms-border-radius: 8px;
     -o-border-radius: 8px;
+}
+.bn-button:hover{
+  background-color: blueviolet;
+  transition: all linear 0.4s;
+  -webkit-transition: all linear 0.4s;
+  -moz-transition: all linear 0.4s;
+  -ms-transition: all linear 0.4s;
+  -o-transition: all linear 0.4s;
 }
 .banner-img{
     width: 500px;
@@ -343,6 +359,30 @@ nav{
     -o-border-radius: 9px;
     margin-top: 60px;
 }
+.vision-btn1:hover{
+  background-color:blueviolet;
+  transition: all linear 0.4s;
+  -webkit-transition: all linear 0.4s;
+  -moz-transition: all linear 0.4s;
+  -ms-transition: all linear 0.4s;
+  -o-transition: all linear 0.4s;
+}
+.vision-btn2:hover{
+  background-color:blueviolet;
+  transition: all linear 0.4s;
+  -webkit-transition: all linear 0.4s;
+  -moz-transition: all linear 0.4s;
+  -ms-transition: all linear 0.4s;
+  -o-transition: all linear 0.4s;
+}
+.vision-btn3:hover{
+  background-color:blueviolet;
+  transition: all linear 0.4s;
+  -webkit-transition: all linear 0.4s;
+  -moz-transition: all linear 0.4s;
+  -ms-transition: all linear 0.4s;
+  -o-transition: all linear 0.4s;
+}
 /* end of section 3 */
 .section-3{
     margin-left: 200px;
@@ -490,6 +530,14 @@ img{
     color: #FFFFFF;
     border: none;
 }
+.text-btn:hover{
+  background-color: blueviolet;
+  transition: all linear 0.4s;
+  -webkit-transition: all linear 0.4s;
+  -moz-transition: all linear 0.4s;
+  -ms-transition: all linear 0.4s;
+  -o-transition: all linear 0.4s;
+}
 /* end od section 4 */
 .section-5{
   margin-bottom: 100px;
@@ -530,6 +578,14 @@ color: #757575;
     -ms-border-radius:16px ;
     -o-border-radius:16px ;
 }
+.donate1:hover{
+  background-color: blueviolet;
+  transition: all linear 0.4s;
+  -webkit-transition: all linear 0.4s;
+  -moz-transition: all linear 0.4s;
+  -ms-transition: all linear 0.4s;
+  -o-transition: all linear 0.4s;
+}
 .donate2{
   background-color: #C6E4D6;
   padding: 20px 40px;
@@ -538,6 +594,14 @@ color: #757575;
   -moz-border-radius:16px ;
   -ms-border-radius:16px ;
   -o-border-radius:16px ;
+}
+.donate2:hover{
+  background-color: blueviolet;
+  transition: all linear 0.4s;
+  -webkit-transition: all linear 0.4s;
+  -moz-transition: all linear 0.4s;
+  -ms-transition: all linear 0.4s;
+  -o-transition: all linear 0.4s;
 }
 .donate-description{
   font-size: 40px;
@@ -569,6 +633,14 @@ color: #757575;
   -o-border-radius: 8px;
    margin-left: 46.5%;
   
+}
+.box-btn:hover{
+  background-color: blueviolet;
+  transition: all linear 0.4s;
+  -webkit-transition: all linear 0.4s;
+  -moz-transition: all linear 0.4s;
+  -ms-transition: all linear 0.4s;
+  -o-transition: all linear 0.4s;
 }
 
  
