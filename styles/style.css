@@ -608,14 +608,27 @@ color: #757575;
   font-weight: 800;
   color: #0e0e0ecd;
 }
-.box{
+/*.box{
   padding: 20px 40px;
-  background-color: lightgrey;
+  background-color: whitesmoke;
+   height: 64px; 
+   width: 100%; 
   margin-left: 250px;
   margin-right: 250px;
   margin-bottom: 32px;
 
+}*/
+.box input[type="number"]{
+  height: 64px;
+  background-color:lightgray;
+  width: 950px;
+  margin-left: 180px;
+  margin-right: 200px;
+  text-align: center;
+  margin-bottom: 30px;
+  border: none;
 }
+
 .box-des{
   font-size: 20px;
   font-weight: 400;
@@ -702,7 +715,7 @@ footer input[type="email"]
   font-weight: 400;
   border-radius: 0px 7px 7px 0px;
   /*border-collapse: collapse;
-  */:;
+  */
   -webkit-border-radius: 0px 7px 7px 0px;
   -moz-border-radius: 0px 7px 7px 0px;
   -ms-border-radius: 0px 7px 7px 0px;
