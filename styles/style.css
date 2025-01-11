@@ -142,6 +142,7 @@ nav{
    width: 1600px;
    height: 650px;
    border-radius: 24px;
+   
    -webkit-border-radius: 24px;
    -moz-border-radius: 24px;
    -ms-border-radius: 24px;
@@ -169,6 +170,7 @@ nav{
     color: #FFFFFF;
     font-weight: 600;
     font-size: 18px;
+    border: none;
     background-color: #006A50;
     border-radius: 8px;
     -webkit-border-radius: 8px;
@@ -485,5 +487,85 @@ img{
     border: none;
 }
 /* end od section 4 */
+.section-5{
+  margin-bottom: 100px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.sec5-heading{
+  color: #0E0E0E;
+  font-size: 40px;
+  font-weight: 800;
+}
+.sec5-description{
+line-height: 24px;
+font-size: 16px;
+font-weight: 400;
+margin-left: 350px;
+margin-right: 350px;
+color: #757575;
+}
+.text-center{
+  text-align: center;
+}
+.sec5{
+  display: flex;
+  gap: 24px;
+  padding-left: 255px;
+  padding-right: 245px;
+  padding-top: 20px;
+  /* justify-content: space-between; */
+  margin-bottom: 40px;
+}
+.donate1{
+    background-color:lightblue;
+    padding: 20px 40px;
+    border-radius:16px ;
+    -webkit-border-radius:16px ;
+    -moz-border-radius:16px ;
+    -ms-border-radius:16px ;
+    -o-border-radius:16px ;
+}
+.donate2{
+  background-color: #C6E4D6;
+  padding: 20px 40px;
+  border-radius:16px ;
+  -webkit-border-radius:16px ;
+  -moz-border-radius:16px ;
+  -ms-border-radius:16px ;
+  -o-border-radius:16px ;
+}
+.donate-description{
+  font-size: 40px;
+  font-weight: 800;
+  color: #0e0e0ecd;
+}
+.box{
+  padding: 20px 40px;
+  background-color: lightgrey;
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-bottom: 32px;
 
+}
+.box-des{
+  font-size: 20px;
+  font-weight: 400;
+  color: #757575;
+}
+.box-btn{
+  background-color: #006A50;
+  padding: 17px 34px;
+  color: #FFFFFF;
+  border: none;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+   margin-left: 46.5%;
+  
+}
+
+ 
 
